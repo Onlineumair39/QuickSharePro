@@ -1,0 +1,6 @@
+{
+  "name": "Quick Share Pro",
+  "description": "Nearby offline peer-to-peer file transfer over Wi-Fi Direct",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
